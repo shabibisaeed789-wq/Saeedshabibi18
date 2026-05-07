@@ -41,7 +41,7 @@ I'm a final-year B.Tech student passionate about building, deploying, and managi
 
 ## 🌱 Currently
 
-- 🎓 Completing my B.Tech degree (May 2026)
+- 🎓 Completing my B.Tech degree (july 2026)
 - 🔍 Actively looking for **DevOps Engineer / Cloud Engineer** roles (Fresher / Internship)
 - 📚 Deepening my Kubernetes and AWS knowledge every day
 
